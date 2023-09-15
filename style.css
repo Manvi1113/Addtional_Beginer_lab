@@ -1,0 +1,20 @@
+body {
+    /* Creating a linear gradient background from left to right */
+    background: linear-gradient(to right, #f6d365, #fda085);
+    color: #333; /* Setting the text color to dark gray (#333) */
+}
+
+.container {
+    /* Styling the container div with a yellow border */
+    border: 2px solid #f6d365;
+    border-radius: 15px; /* Adding rounded corners to the container */
+    padding: 20px; /* Adding some padding inside the container */
+    background-color: white; /* Setting the container background to white */
+}
+
+div {
+    /* Styling all div elements with the 'Times New Roman' font or a fallback font */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
